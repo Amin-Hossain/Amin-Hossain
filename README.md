@@ -1,10 +1,14 @@
-<h1 align="center">⚡ amin-hossain</h1>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74466828/99154874-4e680580-26dd-11eb-9773-48576689f01e.gif">
+</p>
+<h1 align="center">⚡ Abidul-Hasan-Amin</h1>
 <h3 align="center">🧑‍💻 Engineering Student | 💻 Frontend Developer | 🛡️ Ethical Hacking Enthusiast</h3>
 <h2 style="color: green; font-family: 'Courier New', monospace;">/          
 </h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Coder GIF">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJvdDY5N2s2ZHJoMDB0N2pmcmlmY2dsaHZnd2doZTZ0eDA2cDY1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6OrCT1jVbonHG/giphy.gif" width="500" alt="Coder GIF">
 </p>
 
 ---
