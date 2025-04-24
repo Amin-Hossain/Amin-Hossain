@@ -12,6 +12,11 @@
 </p>
 
 ---
+# Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=amin-hossain)
+
+# Other Stats
+![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-hossain&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
 
