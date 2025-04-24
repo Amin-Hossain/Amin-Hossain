@@ -1,35 +1,131 @@
-<h1 align="center">Hi 👋, I'm Abidul Hasan Amin</h1>
-<h3 align="center">A beginner Software Engineer and Frontend Developer from BD</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Abidul Hasan Amin | Profile</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #0d1117;
+      color: #c9d1d9;
+      margin: 0;
+      padding: 2rem;
+    }
+    h1, h3 {
+      text-align: center;
+      color: #58a6ff;
+    }
+    .section {
+      max-width: 900px;
+      margin: 2rem auto;
+      background: #161b22;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 0 12px rgba(0,0,0,0.3);
+    }
+    .gif-center {
+      text-align: center;
+      margin: 1.5rem 0;
+    }
+    pre {
+      background: #0d1117;
+      color: #c9d1d9;
+      padding: 1rem;
+      border-radius: 8px;
+      overflow-x: auto;
+    }
+    img.stats {
+      width: 48%;
+      margin: 1% auto;
+      display: inline-block;
+    }
+    .quote {
+      text-align: center;
+      font-style: italic;
+      color: #8b949e;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amin-hossain&label=Profile%20views&color=0e75b6&style=flat" alt="amin-hossain" /> </p>
+  <h1>Hi there 👋, I'm Amin </h1>
+  <h3>🎓 Engineering Student | 💻 Frontend Developer | 🛡️ Cybersecurity Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amin-hossain" alt="amin-hossain" /></a> </p>
+  <div class="gif-center">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
+  </div>
 
-<p align="left"> <a href="https://twitter.com/abidulhasanamin" target="blank"><img src="https://img.shields.io/twitter/follow/abidulhasanamin?logo=twitter&style=for-the-badge" alt="abidulhasanamin" /></a> </p>
+  <div class="section">
+    <h2>🧑‍💻 About Me</h2>
+    <pre>
+💡 I'm an engineering student with a passion for technology, development, and digital security.
 
-- 🔭 I’m currently working on **SBPGC CSE Club Website**
+💻 I specialize in frontend development and love building clean, interactive user interfaces.
 
-- 🌱 I’m currently learning **C++,Python**
+🔐 I'm diving deeper into ethical hacking and cybersecurity.
 
-- 💬 Ask me about **Html,Css,JavaScript,C,C++**
+🚀 Currently building the official website for SBPGC CSE Club.
+    </pre>
+  </div>
 
-- 📫 How to reach me **abidulhasanamin@gmail.com**
+  <div class="section">
+    <h2>🔧 Tech Stack</h2>
+    <pre>
+Languages     : Python, C++, C, JavaScript, HTML, CSS
+Tools & IDEs  : VS Code,Code blocks,Brackets, Turbo C++, Git, Chrome DevTools
+Web Dev       : Responsive Design, Web Animation, Bootstrap
+Cyber Focus   : Ethical Hacking (Beginner), Kali Linux (Basics), Network Security
+    </pre>
+  </div>
 
-- ⚡ Fun fact **I am Funny :)**
+  <div class="section">
+    <h2>📌 Current Project</h2>
+    <pre>
+🚧 SBPGC CSE Club Website
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abidulhasanamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abidulhasanamin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abidulhasanamin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abidulhasanamin/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amin.hossain.361808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amin.hossain.361808" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ah_amin.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ah_amin.official/" height="30" width="40" /></a>
-</p>
+📍 Description:
+A web platform to showcase club activities, events, achievements, and connect members.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+🛠️ Tech Used:
+HTML, CSS, JavaScript
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amin-hossain&show_icons=true&locale=en&layout=compact" alt="amin-hossain" /></p>
+🔗 Status: In Development...
+    </pre>
+  </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amin-hossain&show_icons=true&locale=en" alt="amin-hossain" /></p>
+  <div class="section">
+    <h2>📈 GitHub Insights</h2>
+    <div class="gif-center">
+      <img class="stats" src="https://github-readme-stats.vercel.app/api?username=amin-hossain&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
+      <img class="stats" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-hossain&theme=dark&hide_border=true" alt="GitHub Streak">
+    </div>
+    <div class="gif-center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=amin-hossain&theme=github-compact" width="90%" alt="GitHub Graph">
+    </div>
+  </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amin-hossain&" alt="amin-hossain" /></p>
+  <div class="section">
+    <h2>🤝 Let's Connect</h2>
+    <pre>
+📫 Email       : <a href="abidulhasanamin@gmail.com" > Abidul Hasan Amin </a>
+🌐 LinkedIn    : <a href="https://www.linkedin.com/in/abidulhasanamin/"> Abidul Hasan Amin </a> 
+📌 Location    : Bangladesh
+🔍 Exploring   : Cybersecurity, Bug Bounty, Linux Tools
+    </pre>
+  </div>
+
+  <div class="gif-center">
+    <img src="assets/guts.gif" width="140" alt="Guts GIF">
+  </div>
+
+  <p class="quote">
+    “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+  </p>
+
+</body>
+</html>
