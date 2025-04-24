@@ -3,53 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Abidul Hasan Amin | Profile</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #0d1117;
-      color: #c9d1d9;
-      margin: 0;
-      padding: 2rem;
-    }
-    h1, h3 {
-      text-align: center;
-      color: #58a6ff;
-    }
-    .section {
-      max-width: 900px;
-      margin: 2rem auto;
-      background: #161b22;
-      padding: 2rem;
-      border-radius: 12px;
-      box-shadow: 0 0 12px rgba(0,0,0,0.3);
-    }
-    .gif-center {
-      text-align: center;
-      margin: 1.5rem 0;
-    }
-    pre {
-      background: #0d1117;
-      color: #c9d1d9;
-      padding: 1rem;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    img.stats {
-      width: 48%;
-      margin: 1% auto;
-      display: inline-block;
-    }
-    .quote {
-      text-align: center;
-      font-style: italic;
-      color: #8b949e;
-    }
-    a {
-      color: #58a6ff;
-      text-decoration: none;
-    }
-  </style>
+
+  
+     
 </head>
 <body>
 
