@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/74466828/99154874-4e680580-26dd-11eb-9773-48576689f01e.gif">
 </p>
 <h1 align="center">⚡ Abidul-Hasan-Amin</h1>
-<h3 align="center">🧑‍💻 Engineering Student | 💻 Frontend Developer | 🛡️ Ethical Hacking Enthusiast</h3>
+<h3 align="center">🧑‍💻 Engineering Student | 💻 Software Developer | 🛡️ Ethical Hacking Enthusiast</h3>
 <h2 style="color: green; font-family: 'Courier New', monospace;">/          
 </h2>
 
@@ -16,7 +16,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=amin-hossain)
 
 # Other Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amin-Hossain&show_icons=true&locale=en&layout=compact" alt="Amin-Hossain" /></p>
+
 ![Amin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amin-hossain&show_icons=true&hide_title=true&count_private=true&hide=prs)
+<br>
+
 
 ---
 
