@@ -45,6 +45,6 @@
   <img src="https://raw.githubusercontent.com/amin-hossain/amin-hossain/main/assets/guts.gif" width="140" alt="Guts Hacker GIF">
 </p>
 
-<p align="center"><i>"Hack the planet." — Anonymous</i></p>
+<p align="center"><i>"Big Brother Is  Watchin You -_- " — 1984</i></p>
 
 
